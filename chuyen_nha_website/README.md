@@ -1,6 +1,6 @@
 # MoveFast – Dịch vụ chuyển nhà
 ## 1. Mô tả
-- Website đặt **dịch vụ** *chuyển nhà*
+- Website **đặt dịch vụ** *chuyển nhà*
 ## 2. Bảng dự án
 | docs | Tài liệu bàn giao
 | --- | --- |
